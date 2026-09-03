@@ -1,138 +1,55 @@
-<div align="center">
+# Hi there, I'm Nicolas Ferreira Souza 👋
 
-# Nicolas Ferreira Souza
+🎓 **Análise e Desenvolvimento de Sistemas** — Centro Universitário Senac *(Previsão de Formação: Junho/2027)*  
+💻 **Estudante de Desenvolvimento de Software | Foco em Backend, Algoritmos e Banco de Dados**
 
-### Estudante de Análise e Desenvolvimento de Sistemas · Backend & Dados
+---
 
-Em transição para desenvolvimento backend, com interesse crescente em dados, cloud e construção de sistemas.
+### 🚀 Sobre Mim
+Desenvolvedor em formação apaixonado por resolver problemas complexos por meio de código limpo, estruturas de dados eficientes e boas práticas de arquitetura de software. Tenho forte base em **Java**, **Modelagem de Dados** e **Análise de Algoritmos**, focado no desenvolvimento de APIs RESTful e aplicações robustas.
 
-[![GitHub](https://img.shields.io/badge/GitHub-nicofsouza-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nicofsouza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Ferreira%20Souza-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-ferreira-souza-61608a241)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicoferreirasouza@gmail.com)
+* 🔭 Atualmente aprofundando estudos em **Estruturas de Dados Avançadas**, **Algoritmos de Ordenação/Busca** e **Spring Boot**.
+* 🎯 Em busca de oportunidades de **Estágio** ou posição **Júnior** em Desenvolvimento de Software / Backend.
 
-</div>
+---
 
-<br>
+### 🛠️ Tech Stack & Competências Técnicas
 
-## Índice
+#### **Linguagens & Backend**
+- **Linguagens:** Java (POO, Generics, Interfaces, Enums, Recursividade), SQL
+- **Frameworks & Ferramentas:** Spring Boot (APIs RESTful, Injeção de Dependência)
+- **Paradigma:** Programação Orientada a Objetos (POO), Encapsulamento, Abstração, Herança e Polimorfismo
 
-- [Sobre mim](#sobre-mim)
-- [Tecnologias](#tecnologias)
-- [Projetos em destaque](#projetos-em-destaque)
-- [Estatísticas do GitHub](#estatísticas-do-github)
-- [Áreas de interesse](#áreas-de-interesse)
-- [Aprendizado atual](#aprendizado-atual)
-- [Experiência](#experiência)
-- [Formação](#formação)
-- [Contato](#contato)
+#### **Estrutura de Dados & Algoritmos**
+- **Estruturas de Dados:** Vetores/Matrizes $M \times N$, Pilhas (LIFO), Filas Lineares e Circulares (FIFO), Tipos Abstratos de Dados (TAD) e Gestão de Referências de Memória
+- **Algoritmos de Ordenação:** 
+  - $O(n^2)$: Bubble Sort (com Otimização por Flag), Selection Sort, Insertion Sort
+  - $O(n \log n)$: Merge Sort (Dividir e Conquistar com Recursão)
+- **Algoritmos de Busca:** Busca Sequencial $O(n)$ e Busca Binária $O(\log n)$
 
-<br>
+#### **Bancos de Dados & SQL**
+- **Modelagem Relacional:** Conceitual, Lógica e Física (PK, FK, Normalização)
+- **SGBD:** MySQL 8
+- **Linguagem SQL:** DDL, DML, Restrições (`CONSTRAINTS`), Índices (`INDEX`), Joins e Otimização
 
-## Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente estou procurando oportunidade para entrar no mercado de trabalho na area de TI
-
-Estou direcionando minha formação e meus estudos para **desenvolvimento backend**, com curiosidade crescente por **dados** e **cloud**. Uso meus repositórios aqui no GitHub como espaço de prática — desde projetos em Java para consolidar lógica de programação até páginas web para treinar front-end básico.
-
-Busco oportunidades como **estagiário ou desenvolvedor júnior** onde eu possa aprender com times experientes e evoluir de forma consistente.
-
-<br>
-
-## Tecnologias
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Linguagens**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Versionamento & Sistemas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Java Survival RPG**](https://github.com/nicofsouza/P.I.-Java-Survival) | Fork de um jogo de RPG em Java usado como exercício prático para consolidar lógica de programação e fundamentos da linguagem. | `Java` |
-| [**Sudoku**](https://github.com/nicofsouza/Grupo-3-Sudoku) | Projeto colaborativo em grupo desenvolvido para fins de aprendizagem de lógica e estruturas em Java. | `Java` |
-| [**Página de Login**](https://github.com/nicofsouza/Pagina-de-Login) | Layout de tela de autenticação construído em HTML e CSS para prática de front-end. | `HTML` `CSS` |
-
-<details>
-<summary>Ver todos os repositórios</summary>
-<br>
-
-O perfil completo, com todos os repositórios, está disponível em [github.com/nicofsouza?tab=repositories](https://github.com/nicofsouza?tab=repositories).
-
-</details>
-
-<br>
-
-## Estatísticas do GitHub
+### 📊 Estatísticas e Atividade
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nicofsouza&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicofsouza&layout=compact&hide_border=true&theme=default" alt="Linguagens mais usadas" height="165"/>
-
+  <!-- Card de Sequência de Contribuições (Streak) -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nicofsouza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Linguagens Mais Usadas -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicofsouza&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" />
 </div>
 
-<br>
+---
 
-## Áreas de interesse
+<p align="center">
+  <i>"A simplicidade é o último grau de sofisticação." — Leonardo da Vinci</i>
+</p>
 
-- Desenvolvimento Backend
-- Dados e Analytics
-- Cloud
-- Suporte técnico e infraestrutura de TI
-- Boas práticas de desenvolvimento de sistemas
+### 📫 Vamos nos conectar?
 
-<br>
-
-## Aprendizado atual
-
-- Aprofundamento em **Java**
-- Fundamentos de **desenvolvimento web**
-- Boas práticas de escrita de código e organização de projetos
-
-<br>
-
-## Experiência
-
-**Auxiliar de TI — Tivit**
-Suporte técnico e soluções de infraestrutura de TI, incluindo diagnóstico e resolução de problemas no dia a dia operacional.
-
-<br>
-
-## Formação
-
-**Análise e Desenvolvimento de Sistemas** — em andamento
-<!-- Adicione aqui o nome da instituição e o período do curso -->
-
-<br>
-
-## Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-nicofsouza-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicofsouza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-ferreira-souza-61608a241)
-[![Email](https://img.shields.io/badge/Email-nicoferreirasouza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicoferreirasouza@gmail.com)
-
-</div>
+- **GitHub:** [github.com/nicofsouza](https://github.com/nicofsouza)
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(insira seu link aqui)*
+- **E-mail:** seu.email@exemplo.com *(insira seu e-mail aqui)*
