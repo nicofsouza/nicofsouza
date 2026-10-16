@@ -1,19 +1,19 @@
-# Hi there, I'm Nicolas Ferreira Souza 👋
+#  Nicolas Ferreira Souza 
 
-🎓 **Análise e Desenvolvimento de Sistemas** — Centro Universitário Senac *(Previsão de Formação: Junho/2027)*  
-💻 **Estudante de Desenvolvimento de Software | Foco em Backend, Algoritmos e Banco de Dados**
+ **Análise e Desenvolvimento de Sistemas** — Centro Universitário Senac *(Previsão de Formação: Junho/2027)*  
+ **Estudante de Desenvolvimento de Software | Foco em Backend, Algoritmos e Banco de Dados**
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 Desenvolvedor em formação apaixonado por resolver problemas complexos por meio de código limpo, estruturas de dados eficientes e boas práticas de arquitetura de software. Tenho forte base em **Java**, **Modelagem de Dados** e **Análise de Algoritmos**, focado no desenvolvimento de APIs RESTful e aplicações robustas.
 
-* 🔭 Atualmente aprofundando estudos em **Estruturas de Dados Avançadas**, **Algoritmos de Ordenação/Busca** e **Spring Boot**.
-* 🎯 Em busca de oportunidades de **Estágio** ou posição **Júnior** em Desenvolvimento de Software / Backend.
+* Atualmente aprofundando estudos em **Estruturas de Dados Avançadas**, **Algoritmos de Ordenação/Busca** e **Spring Boot**.
+* Em busca de oportunidades de **Estágio** ou posição **Júnior** em Desenvolvimento de Software / Backend.
 
 ---
 
-### 🛠️ Tech Stack & Competências Técnicas
+###  Tech Stack & Competências Técnicas
 
 #### **Linguagens & Backend**
 - **Linguagens:** Java (POO, Generics, Interfaces, Enums, Recursividade), SQL
@@ -50,6 +50,6 @@ Desenvolvedor em formação apaixonado por resolver problemas complexos por meio
 
 ### 📫 Vamos nos conectar?
 
-- **GitHub:** [github.com/nicofsouza](https://github.com/nicofsouza)
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(insira seu link aqui)*
-- **E-mail:** seu.email@exemplo.com *(insira seu e-mail aqui)*
+- **GitHub:** https://github.com/nicofsouza 
+- **LinkedIn:** www.linkedin.com/in/nicolas-ferreira-souza-61608a241
+- **E-mail:** nicoferreirasouza@gmail.com
